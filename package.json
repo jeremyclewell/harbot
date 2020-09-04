@@ -1,0 +1,19 @@
+{
+  "name": "harbot",
+  "version": "1.0.0",
+  "description": "A simple tool for playing back HAR files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyclewell/harbot.git"
+  },
+  "author": "Jeremy Austin Clewell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyclewell/harbot/issues"
+  },
+  "homepage": "https://github.com/jeremyclewell/harbot#readme"
+}
